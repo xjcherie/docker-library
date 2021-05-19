@@ -1,8 +1,6 @@
 ## docker-library
 
 kubernetes 相关 images 同步
-	  
-# 2017.12.23
 
 	kube-apiserver-amd64:v1.21.1
 	kube-controller-manager-amd64:v1.21.1
